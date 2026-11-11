@@ -1,0 +1,6 @@
+{
+  "name": "NetSage AI",
+  "description": "Cisco Packet Tracer network fault troubleshooting platform with deterministic rule validation, Gemini AI diagnosis, human-in-the-loop review gating, and Responsible AI logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
